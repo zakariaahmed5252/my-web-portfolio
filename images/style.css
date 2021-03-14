@@ -1,0 +1,88 @@
+body {
+  margin: 0px;
+  font-family: poppins, sans-serif;
+}
+h1 {
+  font-size: 50px;
+}
+.heighliting {
+  color: orange;
+}
+.mainsection {
+  width: 40%;
+  float: left;
+  margin-left: 2%;
+  padding-left: 4%;
+  height: 400px;
+}
+.mainsection img {
+  width: 100%;
+}
+.top_banner {
+  background-image: url("top-banner.png");
+  background-repeat: no-repeat;
+}
+section {
+  height: 500px;
+}
+.find-me {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 10px 25px;
+  border-radius: 4px;
+  color: white;
+  font-weight: 700;
+}
+.alter-section {
+  margin-top: 150px;
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.alter-section img {
+  width: 100%;
+}
+.Buy-now {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, lightsalmon, tomato);
+  color: white;
+  padding: 10px 25px;
+  border-radius: 4px;
+}
+.down_banner {
+  background-image: url(dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 100px;
+}
+#Experience {
+  margin: 10px 10px;
+}
+.box {
+  background-image: url("exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.box-shadow {
+  box-shadow: 10px 10px 40px antiquewhite;
+  border-radius: 5px;
+  height: 300px;
+  background-color: white;
+}
+#full-stack {
+  border-left: 5px solid;
+  border-image: linear-gradient(cyan, blue);
+  border-image-slice: 1;
+  margin-left: 65px;
+}
+#half-stack {
+  border-left: 5px dotted;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 5px;
+}
